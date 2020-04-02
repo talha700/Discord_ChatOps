@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from netmiko import Netmiko
 
-TOKEN = "Njk0ODExMTIxMzE1NzQxNjk5.XoRKRw.VVcXWvJKxf_rPbFUocsKNGNpiL0"
+TOKEN = "<paste_your_token_here"
 
 client = commands.Bot(command_prefix = "$")
 
