@@ -22,6 +22,7 @@
  
  ![](bot_demo.png)
      
- 
+ ### Checkout the docs for Discoerd API wrapper
+     https://discordpy.readthedocs.io/en/latest/
      
  
