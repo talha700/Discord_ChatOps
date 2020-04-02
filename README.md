@@ -18,6 +18,7 @@
     
  2. type $help to see functions
  
+ ![](bot_demo.png)
      
  
      
