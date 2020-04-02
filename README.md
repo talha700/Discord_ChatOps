@@ -17,8 +17,8 @@
     - our bot will become online
     
  2. type "$hello" to see functions
- 3.type "$get_interface_status <ip>"  to get interface status 
- 4. type "$get_interface <ip> _interface_name_" to get interface ip
+ 3.type "$get_interface_status _ip"  to get interface status 
+ 4. type "$get_interface _ip _interface_name_" to get interface ip
  
  ![](bot_demo.png)
      
